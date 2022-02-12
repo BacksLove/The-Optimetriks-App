@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">The Optimetriks App</string>
+    <string name="title_home">Home</string>
+    <string name="title_bookmarks">Bookmarks</string>
+    <string name="title_profile">Profile</string>
+
+    <string name="edit_profile_hint_name">Name</string>
+    <string name="edit_profile_hint_description">Description</string>
+    <string name="edit_profile_button">Save</string>
+
+    <string name="profile_edit_button">Edit profile</string>
+    
+    <string name="user_saved">User saved</string>
+    <string name="permission_denied">Permission denied</string>
+
+    <string name="search_query_hint">Type a word</string>
+</resources>
